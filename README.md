@@ -1,2 +1,3 @@
 # CardComponent
- An example of product card component
+
+An example of product card component
